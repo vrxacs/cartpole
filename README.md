@@ -1,1 +1,1 @@
-cartpole
+This repo contains work related to the cartpole environment in OpenAI's gym
